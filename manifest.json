@@ -1,0 +1,41 @@
+{
+ 
+    "name":"Login PWA sample",
+ 
+    "short_name":"Login",
+ 
+    "dir":"ltr",
+ 
+    "display":"fullscreen",
+ 
+    "orientation":"portrait",
+ 
+    "scope":".",
+ 
+    "Start_URL":"index.html",
+ 
+    "id":"index.html",
+ 
+    "description":"PWA login page",
+ 
+    "background_color":"#0000FF",
+ 
+    "theme_color":"#0000FF",
+ 
+    "icons":
+ 
+    [
+ 
+        {
+ 
+            "src":"/images/icons/icon-72x72.png",
+ 
+            "type":"image/png",
+ 
+            "sizes":"72x72"
+ 
+        }
+ 
+    ]
+ 
+}
